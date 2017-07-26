@@ -1,0 +1,11 @@
+{
+    "name": "chanfuku/hoge-bundle",
+    "description": "test",
+    "authors": [
+        {
+            "name": "chanfuku",
+            "email": "hogehoge@gmail.com"
+        }
+    ],
+    "require": {}
+}
